@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 <details>
   <summary>Toggle me!</summary>
   Peek a boo!
