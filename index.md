@@ -8,22 +8,48 @@ title: Home
 Here’s some expandable detail blocks:
 
 <details>
-  <summary>Block 1: Example</summary>
+  <summary>👤 Employee Info: John Doe</summary>
 
-  | Item | Description | Image |
-  |------|-------------|-------|
-  | A    | First item  | ![alt](https://via.placeholder.com/100) |
-  | B    | Second item | ![alt](https://via.placeholder.com/100) |
+<div class="card">
+  <p><strong>Name:</strong> <span class="value">John Doe</span></p>
+  <p><strong>Age:</strong> <span class="value">34</span></p>
+  <p><strong>Job:</strong> <span class="value">Developer</span></p>
+  <p><strong>Pet:</strong> <span class="value">Dog</span></p>
+  <p><strong>Wage:</strong> <span class="value">$75,000/year</span></p>
+  <p><strong>Cat Name:</strong> <span class="value">N/A</span></p>
+</div>
+
+<div class="card">
+  <p><strong>Name:</strong> <span class="value">Jane Smith</span></p>
+  <p><strong>Age:</strong> <span class="value">29</span></p>
+  <p><strong>Job:</strong> <span class="value">Designer</span></p>
+  <p><strong>Pet:</strong> <span class="value">Cat</span></p>
+  <p><strong>Wage:</strong> <span class="value">$68,000/year</span></p>
+  <p><strong>Cat Name:</strong> <span class="value">Whiskers</span></p>
+</div>
 
 </details>
 
 <details>
-  <summary>Block 2: Another Example</summary>
+  <summary>👤 Employee Info: John Doe</summary>
 
-  | Feature | Value | Screenshot |
-  |---------|-------|------------|
-  | Speed   | Fast  | ![alt](https://via.placeholder.com/150) |
-  | Size    | Small | ![alt](https://via.placeholder.com/150) |
+<div class="card">
+  <p><strong>Name:</strong> <span class="value">John Doe</span></p>
+  <p><strong>Age:</strong> <span class="value">34</span></p>
+  <p><strong>Job:</strong> <span class="value">Developer</span></p>
+  <p><strong>Pet:</strong> <span class="value">Dog</span></p>
+  <p><strong>Wage:</strong> <span class="value">$75,000/year</span></p>
+  <p><strong>Cat Name:</strong> <span class="value">N/A</span></p>
+</div>
+
+<div class="card">
+  <p><strong>Name:</strong> <span class="value">Jane Smith</span></p>
+  <p><strong>Age:</strong> <span class="value">29</span></p>
+  <p><strong>Job:</strong> <span class="value">Designer</span></p>
+  <p><strong>Pet:</strong> <span class="value">Cat</span></p>
+  <p><strong>Wage:</strong> <span class="value">$68,000/year</span></p>
+  <p><strong>Cat Name:</strong> <span class="value">Whiskers</span></p>
+</div>
 
 </details>
 
