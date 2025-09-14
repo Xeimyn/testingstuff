@@ -97,6 +97,40 @@
     a:hover {
       text-decoration: underline;
     }
+
+/* Fancy cards inside collapsibles */
+.markdown-body .card {
+  background: #1f2226;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem 0;
+  display: grid;
+  grid-template-columns: max-content auto;
+  gap: 0.5rem 1rem;
+}
+
+.markdown-body .card p {
+  margin: 0.25rem 0;
+  display: contents; /* lets the grid layout work on <strong> + span */
+}
+
+.markdown-body .card strong {
+  color: #6ee7b7; /* accent color */
+}
+
+.markdown-body .card .value {
+  color: #e0e0e0;
+}
+
+.markdown-body details summary {
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #6ee7b7;
+  margin-bottom: 0.5rem;
+}
+
   </style>
 </head>
 <body>
