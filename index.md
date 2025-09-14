@@ -27,7 +27,4 @@ Here’s some expandable detail blocks:
 
 </details>
 
-<!-- temporary test -->
-| Test A | Test B |
-|--------|--------|
-| one    | two    |
+test
