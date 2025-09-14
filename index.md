@@ -26,3 +26,8 @@ Here’s some expandable detail blocks:
   | Size    | Small | ![alt](https://via.placeholder.com/150) |
 
 </details>
+
+<!-- temporary test -->
+| Test A | Test B |
+|--------|--------|
+| one    | two    |
