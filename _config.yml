@@ -1,6 +1,8 @@
 title: My README Site
 description: A simple custom Jekyll theme
 
+# Ensure kramdown uses GitHub-flavored-markdown (GFM) so pipe-tables render
 markdown: kramdown
 kramdown:
-  input: GFM   # enables GitHub-style tables, strikethrough, task lists, etc.
+  input: GFM
+  parse_block_html: true
