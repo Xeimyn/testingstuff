@@ -1,2 +1,6 @@
 title: My README Site
 description: A simple custom Jekyll theme
+
+markdown: kramdown
+kramdown:
+  input: GFM   # enables GitHub-style tables, strikethrough, task lists, etc.
