@@ -5,4 +5,3 @@ description: A simple custom Jekyll theme
 markdown: kramdown
 kramdown:
   input: GFM
-  parse_block_html: true
